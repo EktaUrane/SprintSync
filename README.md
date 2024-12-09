@@ -1,0 +1,2 @@
+# SprintSync
+An Automated Sprint
